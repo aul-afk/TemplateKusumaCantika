@@ -39,7 +39,7 @@
 	header-img start 
 	============================== -->
 	<section id="hero-area">
-		<img class="img-responsive" src="images/header.jpg" alt="">
+		<img class="img-responsive" src="../assets/images/header.jpg" alt="">
 	</section>
 	<!--
     Header start 
@@ -61,7 +61,7 @@
 										<span class="icon-bar"></span>
 									</button>
 									<a class="navbar-brand" href="#">
-										<img src="images/logo.png" alt="Logo" style="width: 40px;, height:40px;">
+										<img src="../assets/images/logo.png" alt="Logo" style="width: 40px;, height:40px;">
 									</a>
 
 								</div>
@@ -86,3 +86,4 @@
 	</nav><!-- header close -->
 </body>
 </html>
+
