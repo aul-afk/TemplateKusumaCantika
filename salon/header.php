@@ -9,17 +9,17 @@
 	<!-- CSS
         ================================================ -->
 	<!-- Owl Carousel -->
-	<link rel="stylesheet" href="css/owl.carousel.css">
+	<link rel="stylesheet" href="assets/css/owl.carousel.css">
 	<!-- bootstrap.min css -->
-	<link rel="stylesheet" href="css/bootstrap.min.css">
+	<link rel="stylesheet" href="assets/css/bootstrap.min.css">
 	<!-- Font-awesome.min css -->
-	<link rel="stylesheet" href="css/font-awesome.min.css">
+	<link rel="stylesheet" href="assets/css/font-awesome.min.css">
 	<!-- Main Stylesheet -->
-	<link rel="stylesheet" href="css/animate.min.css">
+	<link rel="stylesheet" href="assets/css/animate.min.css">
 
-	<link rel="stylesheet" href="css/main.css">
+	<link rel="stylesheet" href="assets/css/main.css">
 	<!-- Responsive Stylesheet -->
-	<link rel="stylesheet" href="css/responsive.css">
+	<link rel="stylesheet" href="assets/css/responsive.css">
 	<!-- Js -->
 	<script src="js/vendor/modernizr-2.6.2.min.js"></script>
 	<!-- <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script> -->
@@ -86,5 +86,6 @@
 	</nav><!-- header close -->
 </body>
 </html>
+
 
 
