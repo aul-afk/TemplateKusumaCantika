@@ -14,28 +14,28 @@
 						</div>
 						<div id="owl-example" class="owl-carousel">
 							<div>
-								<img class="img-responsive" src="../images/slider/slider-img-1.jpg" alt="">
+								<img class="img-responsive" src="../assets/images/slider/slider-img-1.jpg" alt="">
 							</div>
 							<div>
-								<img class="img-responsive" src="../images/slider/slider-img-2.jpg" alt="">
+								<img class="img-responsive" src="../assets/images/slider/slider-img-2.jpg" alt="">
 							</div>
 							<div>
-								<img class="img-responsive" src="../images/slider/slider-img-3.jpg" alt="">
+								<img class="img-responsive" src="../assets/images/slider/slider-img-3.jpg" alt="">
 							</div>
 							<div>
-								<img class="img-responsive" src="../images/slider/slider-img-4.jpg" alt="">
+								<img class="img-responsive" src="../assets/images/slider/slider-img-4.jpg" alt="">
 							</div>
 							<div>
-								<img class="img-responsive" src="../images/slider/slider-img-1.jpg" alt="">
+								<img class="img-responsive" src="../assets/images/slider/slider-img-1.jpg" alt="">
 							</div>
 							<div>
-								<img class="img-responsive" src="../images/slider/slider-img-2.jpg" alt="">
+								<img class="img-responsive" src="../assets/images/slider/slider-img-2.jpg" alt="">
 							</div>
 							<div>
-								<img class="img-responsive" src="../images/slider/slider-img-3.jpg" alt="">
+								<img class="img-responsive" src="../assets/images/slider/slider-img-3.jpg" alt="">
 							</div>
 							<div>
-								<img class="img-responsive" src="../images/slider/slider-img-4.jpg" alt="">
+								<img class="img-responsive" src="../assets/images/slider/slider-img-4.jpg" alt="">
 							</div>
 
 						</div>
@@ -52,7 +52,7 @@
 			<div class="row">
 				<div class="col-md-12">
 					<div class="block">
-						<img class="wow fadeInUp" data-wow-duration="300ms" data-wow-delay="400ms" src="../images/cooker-img.png"
+						<img class="wow fadeInUp" data-wow-duration="300ms" data-wow-delay="400ms" src="../assets/images/cooker-img.png"
 							alt="cooker-img">
 						<h1 class="heading wow fadeInUp" data-wow-duration="400ms" data-wow-delay="500ms">Your
 							<span>Restaurant’s</span> </br> Website Has To Look <span>Good</span>
@@ -79,7 +79,7 @@
 						<ul>
 							<li class="wow fadeInLeft" data-wow-duration="300ms" data-wow-delay="300ms">
 								<div class="blog-img">
-									<img src="../images/blog/blog-img-1.jpg" alt="blog-img">
+									<img src="../assets/images/blog/blog-img-1.jpg" alt="blog-img">
 								</div>
 								<div class="content-right">
 									<h3>Homestyle Chicken Pot Pie</h3>
@@ -89,7 +89,7 @@
 							</li>
 							<li class="wow fadeInLeft" data-wow-duration="300ms" data-wow-delay="400ms">
 								<div class="blog-img">
-									<img src="../images/blog/blog-img-2.jpg" alt="blog-img">
+									<img src="../assets/images/blog/blog-img-2.jpg" alt="blog-img">
 								</div>
 								<div class="content-right">
 									<h3>Homestyle Chicken Pot Pie</h3>
@@ -104,7 +104,7 @@
 									</p>
 								</div>
 								<div class="blog-img-2">
-									<img src="../images/blog/blog-img-3.jpg" alt="blog-img">
+									<img src="../assets/images/blog/blog-img-3.jpg" alt="blog-img">
 								</div>
 							</li>
 							<li class="wow fadeInLeft" data-wow-duration="300ms" data-wow-delay="600ms">
@@ -114,12 +114,12 @@
 									</p>
 								</div>
 								<div class="blog-img-2">
-									<img src="../images/blog/blog-img-4.jpg" alt="blog-img">
+									<img src="../assets/images/blog/blog-img-4.jpg" alt="blog-img">
 								</div>
 							</li>
 							<li class="wow fadeInLeft" data-wow-duration="300ms" data-wow-delay="700ms">
 								<div class="blog-img">
-									<img src="../images/blog/blog-img-5.jpg" alt="blog-img">
+									<img src="../assets/images/blog/blog-img-5.jpg" alt="blog-img">
 								</div>
 								<div class="content-right">
 									<h3>Homestyle Chicken Pot Pie</h3>
@@ -129,7 +129,7 @@
 							</li>
 							<li class="wow fadeInUp" data-wow-duration="300ms" data-wow-delay="800ms">
 								<div class="blog-img">
-									<img src="../images/blog/blog-img-6.jpg" alt="blog-img">
+									<img src="../assets/images/blog/blog-img-6.jpg" alt="blog-img">
 								</div>
 								<div class="content-right">
 									<h3>Homestyle Chicken Pot Pie</h3>
